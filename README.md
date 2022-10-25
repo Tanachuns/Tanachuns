@@ -4,6 +4,7 @@
 
  - I'm learning JavaScript at [🔥 JavaScript 21 Days Challenge.](https://www.youtube.com/playlist?list=PLOgiLP3tCaPXc9-whn0on3tDT9rQdXAWL)
  - I'm learning React at [React Tutorial (scrimba.com)](https://scrimba.com/learn/learnreact)
+ - I'm taking Software Engineering Immersive Course by TDAxGA.
  - I'm [@tanachuns ](https://twitter.com/tanachuns) on Twitter.
  - Big Fan of Star Trek🖖 and Transformers🚛➡️🤖.
  
