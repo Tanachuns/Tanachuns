@@ -12,6 +12,6 @@
  - 21 Lessons for the 21st Century. (8%)
  - DUNE (47%)
  - The Psychology of Money (0%)
- - ~~Dragon Delivery (100%)🥳
+ - ~~Dragon Delivery (100%)🥳~~
  - How to win friends & influence people. (32%)
  - 12 Rules For Life (2nd Time) (0%)
